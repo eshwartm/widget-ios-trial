@@ -1,2 +1,2 @@
-# widget-trial
+# widget-ios-trial
 trying out a widget
